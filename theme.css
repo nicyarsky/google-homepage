@@ -1,0 +1,30 @@
+/* CSS Theme */
+
+.logo {
+	position:absolute;
+	top:190px;
+	left:500px;
+
+
+	
+
+}
+
+.search {
+	position:relative;
+	top:300px;
+	left:500px;
+
+}
+
+.search_button {
+	position:absolute;
+	top:360px;
+	left:525px;
+}
+
+.lucky_button {
+	position: absolute;
+	top:360px;
+	left:640px;
+}
